@@ -1,0 +1,14 @@
+{
+    "ipmi": {
+        "host": "192.168.44.104",
+        "username": "root",
+        "password": "calvin"
+    },
+    "influxdb": {
+        "url": "http://192.168.44.4:8086",
+        "username": "admin",
+        "password": "Homo114514",
+        "org": "RC_Homelab",
+        "bucket": "R730_IPMI_DATA"
+    }
+}
